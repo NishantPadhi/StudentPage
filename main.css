@@ -51,6 +51,7 @@
     #LINK {
      
       margin-left: 20%; 
+      font-size: 17px;
     }
   }
   #LINK:hover
@@ -96,6 +97,7 @@
 }
 #FB
 {
+
   color: white;
   text-decoration: none;
 }
