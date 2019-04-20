@@ -65,7 +65,7 @@
   }
   #ImagePart
   {
-    margin-top: 30px;
+    margin-top: 10px;
     color: white;
     font-size: 18px;
     background-color: #1a6ece;
@@ -124,7 +124,12 @@
   }
   #ImagePart
   {
-    margin-top: 50px;
+    height: 
+    margin-top: 20px;
+  }
+  .flip-card
+  {
+    height: 240px;
   }
   }
   @media (max-width: 768px) {
