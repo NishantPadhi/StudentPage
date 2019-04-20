@@ -105,3 +105,36 @@
 {
   text-decoration: none;
 }
+.padding
+{
+  padding-bottom: 1rem;
+}
+@media (max-width: 600px) {
+  #maindiv
+  {
+    margin-left: 18%;
+  }
+  }
+/*.card
+{
+  border-radius: 4px;
+}
+.front,.back
+{
+  width: 100%;
+  height: 340px;
+  border-radius: 10px;
+}
+.front
+{
+  z-index:2;
+}
+.front,.back
+{
+  backface-visibility: hidden;
+  position: absolute;
+  top:0;
+  left: 0;
+  background-color: #FFF;
+
+}*/
